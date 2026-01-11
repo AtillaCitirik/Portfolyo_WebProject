@@ -18,9 +18,6 @@ export default function Projects() {
                 ))}
               </div>
 
-              <a className="link" href={p.link} target="_blank" rel="noreferrer">
-                Link →
-              </a>
             </article>
           ))}
         </div>
