@@ -1,20 +1,20 @@
 export const projects = [
   {
     title: "Proje 1",
-    description: "Kısa açıklama.",
+    description: "Örnek Proje 1",
     tech: ["React", "Vite"],
-    link: "https://github.com/",
+    link: "github.com/AtillaCitirik",
   },
   {
     title: "Proje 2",
-    description: "Kısa açıklama.",
+    description: "Örnek Proje 2",
     tech: ["JavaScript", "CSS"],
-    link: "https://github.com/",
+    link: "github.com/AtillaCitirik",
   },
   {
     title: "Proje 3",
-    description: "Kısa açıklama.",
+    description: "Örnek Proje 3",
     tech: ["API", "UI"],
-    link: "https://github.com/",
+    link: "github.com/AtillaCitirik",
   },
 ];

@@ -4,7 +4,7 @@ export default function Contact() {
       <div className="container">
         <h2>İletişim</h2>
         <p className="muted">
-          Mail: <a className="link" href="mailto:mail@ornek.com">mail@ornek.com</a>
+          Mail: <a className="link" href="atillactrk@gmail.com">mail@ornek.com</a>
         </p>
       </div>
     </section>
