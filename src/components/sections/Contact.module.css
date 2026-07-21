@@ -1,0 +1,29 @@
+.text {
+  max-width: 560px;
+  color: var(--color-text-muted);
+}
+
+.actions {
+  margin-top: var(--space-lg);
+}
+
+.channels {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-lg);
+  margin-top: var(--space-xl);
+}
+
+.channels a,
+.channel {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-xs);
+  color: var(--color-text-muted);
+  font-size: 0.95rem;
+  transition: color var(--transition);
+}
+
+.channels a:hover {
+  color: var(--color-accent);
+}
